@@ -73,3 +73,5 @@ gem "sidekiq", "~> 7.1"
 gem "rspec-rails", "~> 6.0"
 
 gem "pry-rails", "~> 0.3.9"
+
+gem "faraday", "~> 2.7"
